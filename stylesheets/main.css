@@ -602,8 +602,10 @@ html, body {
 .schedule-wrapper {
   margin: 0px;
   width: 100vw;
-  padding: 8vw; }
+  padding: 8vw; 
+  color: #1EBDF4}
   .schedule-wrapper .title {
+    color: #FFBA44;
     text-align: left; }
 
 .schedule {
