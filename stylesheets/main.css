@@ -446,19 +446,21 @@ html, body {
     top: 800px; }
 
   #t-3, #t-4 {
-    top: 1300px; }
-
-  #t-5 {
-    top: 1800px; }
+    top: 1600px; }
 
   #t-5 {
     top: 1900px; }
+
+  #t-5 {
+    top: 2000px; }
     #t-5 a {
       padding: 20px; }
     #t-5 h3 {
       font-size: 18px; }
     #t-5 .resources {
       transform: translateY(500px); } }
+  #t-6 {
+      transform: translateY(700px); } }
 @media only screen and (max-width: 850px) {
   #t-1 {
     left: 0;
